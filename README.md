@@ -78,11 +78,22 @@ GreenPulse leverages advanced econometric modeling (S2SLS) and machine learning 
 
 ---
 
+## 💻 Prototype
+
+<img width="1919" height="908" alt="GreenPulse_demo1" src="https://github.com/user-attachments/assets/e2f6e9ab-4ef8-4193-9ced-748d8dd8c1fa" />
+<img width="1919" height="907" alt="GreenPulse_demo2" src="https://github.com/user-attachments/assets/1c0975e5-0fc7-436f-8fcf-1285723627c9" />
+<img width="1919" height="908" alt="GreenPulse_demo3" src="https://github.com/user-attachments/assets/9577f5bb-c00a-455e-9d18-f0b2433f7c1b" />
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
+
+
+
+
 
 **Developed for the NYC Urban Forestry Initiative.**
 *Last Updated: January 14, 2026*
